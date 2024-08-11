@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width : 500px;
+    border:1px solid black;
+    display: flex;
+    justify-content: center;
+    margin: auto ;
+
+}
+p{
+    padding: auto;
+    margin: 1px;
+    flex-wrap: wrap;
+    height: auto;
+}
